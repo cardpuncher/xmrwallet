@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="tr">
+    <string name="help_create_new"><![CDATA[
+        <h1>Cüzdan Oluştur - Yeni</h1>
+        <p>Eğer yeni bir Monero adresine ihtiyacınız varsa!</p>
+        <p>Benzersiz bir cüzdan adı ve parola girin.
+        Parola, cihaz üzerinde cüzdan verilerinizin güvenliğini sağlamak için kulanılır. Güçlü bir parola
+        kullanın veya daha da iyisi bir şifre cümlesi kullanın.</p>
+        <h2>Anımsatıcı Tohumunuzu Not Alın!</h2>
+        <p>Bir sonraki ekranda 25 kelimelik \"Anımsatıcı Tohumunuzu\" bulacaksınız.
+        Bu, daha sonra cüzdanınızı geri getirmek ve fonlarınıza tam erişim kazanmak için ihtiyacınız
+        olan tek veridir.
+        Bunu güvende ve gizli muhafaza etmeniz çok önemlidir, çünkü <em>herkese</em> fonlarınıza
+        tam erişim sağlar!</p>
+        <p>Eğer cüzdan parolanızı kaybederseniz, cüzdanınızı yine de Anımsatıcı Tohum ile geri
+        alabilirsiniz.</p>
+        <p>Anımsatıcı Tohumunuzu geri getirmek için hiçbir yol yoktur, onu kaybedersiniz tüm fonlarınızı
+        kaybedersiniz!
+        Anımsatıcı Tohum ayrıca hiçbir zaman değiştirilemez ve çalınması veya başka bir şekilde ele
+        geçirilmesi durumunda, fonlarınızı yeni bir cüzdana (yeni bir Anımsatıcı Tohum ile) taşımanız
+        gerekecektir. Dolayısıyla, en iyisi Anımsatıcı Tohumunuzu bir kağıda yazıp onu <em>birden fazla</em>
+        güvenli yerde muhafaza etmektir.</p>
+    ]]></string>
+
+    <string name="help_create_seed"><![CDATA[
+        <h1>Cüzdan Oluştur - Tohum</h1>
+        <p>Eğer zaten bir Monero adresiniz varsa ve işlemleri blok zincirinden geri getirmek istiyorsanız!</p>
+        <p>Benzersiz bir cüzdan adı ve parola girin. Parola, cihaz üzerinde cüzdan verilerinizin güvenliğini
+        sağlamak için kullanılır.
+        Güçlü bir parola kullanın - veya daha iyisi, bir şifre cümlesi kullanın.</p>
+        <p>Tohumunuzu \"Anımsatıcı Tohum\" alanına girin.</p>
+        <p>Bu adres için ik işlemin blok numarasını \"Yüksekliği Geri Getir\" alanına girin. Ayrıca
+        YYYY-AA-GG biçiminde bir tarih de girebilirsiniz. Eğer emin değilseniz, bu cüzdan adresini ilk
+        kullanımızdan <em>önceki</em> yaklaşık bir tarih/blok yüksekliği girin.</p>
+    ]]></string>
+
+    <string name="help_create_ledger"><![CDATA[
+        <h1>Cüzdan Oluştur - Defter</h1>
+        <p>Cüzdanınızı Ledger Nano S cihazından geri getirmek istiyorsunuz.</p>
+        <p>Gizli anahtarlarınız asla Ledger yani Defter cihazından çıkmaz, dolayısıyla cüzdanınıza her
+        erişmek istediğinizde onu bağlamanız gerekecektir.</p>
+        <p>Benzersiz bir cüzdan adı ve parola girin. Parola, Android cihazında cüzdanınızın güvenliğini
+        sağlamak için kullanılacaktır. Güçlü bir parola kullanın - veya daha iyisi, bir şifre cümlesi
+        kullanın.</p>
+        <p>Bu adres için ilk işlemin blok numarasını \"Yüksekliği Geri Getir\" alanına girin. Ayrıca
+        YYYY-AA-GG biçiminde bir tarih de girebilirsiniz. Eğer emin değilseniz, bu cüzdan adresini ilk
+        kullanımınızdan <em>önceki</em> yaklaşık bir tarih/blok yüksekliği girin.</p>
+    ]]></string>
+
+    <string name="help_create_keys"><![CDATA[
+        <h1>Cüzdan Oluştur - Anahtarlar</h1>
+        <p>Eğer cüzdanınızı anahtarlarınızı kullanarak geri getiriyorsanız!</p>
+        <p>Benzersiz bir cüzdan adı ve parola girin. Parola, cüzdan verilerinizin cihaz üzerinde güvenliğini
+        sağlamak için kullanılacaktır.
+        Güçlü bir parola kullanın - veya daha iyisi, bir şifre cümlesi kullanın.<p>
+        <p>Monero adresinizi \"Herkese Açık Adres\" alanına girin ve \"Anahtarı Görüntüle\" ve
+        \"Harcama Anahtarı\" alanlarını doldurun.</p>
+        <p>Bu adres için ilk işlemin blok numarasını \"Yüksekliği Geri Getir\" alanına girin. Ayrıca
+        YYYY-AA-GG biçiminde bir tarih de girebilirsiniz. Eğer emin değilseniz, bu cüzdan adresini ilk
+        kullanımınızdan <em>önceki</em> yaklaşık bir tarih/blok yüksekliği girin.</p></p>
+    ]]></string>
+
+    <string name="help_create_view"><![CDATA[
+        <h1>Cüzdan Oluştur - Görüntüle</h1>
+        <p>Şayet sadece bir cüzdana gelen işlemleri takip etmek istiyorsanız!</p>
+        <p>Benzersiz bir cüzdan adı ve parola girin. Parola, cüzdan verilerinizin cihaz üzerinde güvenliğini
+        sağlamak için kullanılacaktır.
+        Güçlü bir parola kullanın - veya daha iyisi, bir şifre cümlesi kullanın.<p>
+        <p>Monero adresinizi \"Herkese Açık Adres\" alanına girin ve \"Anahtarı Görüntüle\" alanını doldurun.</p>
+        <p>Bu adres için ilk işlemin blok numarasını \"Yüksekliği Geri Getir\" alanına girin. Ayrıca
+        YYYY-AA-GG biçiminde bir tarih de girebilirsiniz. Eğer emin değilseniz, bu cüzdan adresini ilk
+        kullanımınızdan <em>önceki</em> yaklaşık bir tarih/blok yüksekliği girin.</p>
+    ]]></string>
+
+    <string name="help_details"><![CDATA[
+        <h1>Cüzdan Ayrıntıları</h1>
+        <h2>Herkese açık adres</h2>
+        Herkese açık adresiniz, banka hesap numaranız gibidir, bunu Monero\'larınızı kaybetmekten
+        çekinmeden istediğiniz kişiyle paylaşabilirsiniz. Cüzdanınıza Monero bu adres kullanılarak
+        gönderilecektir.
+        <h2>Anımsatıcı Tohum</h2>
+        Bu, daha sonra cüzdanınızı geri getirmek ve fonlarınıza tam erişim sağlamak için ihtiyacınız
+        olan tek veridir. Bunu güvenli ve gizli muhafaza etmek çok önemlidir, çünkü <em>herkese</em>
+        Monero\'larınıza tam erişim verir. Eğer bunu güvenli bir yere yazmadıysanız lütfen şimdi yazın!
+        <h2>Cüzdan Dosyaları Geri Getirme Parolası</h2>
+        Bu parolayı bir kağıda yazdığınızdan emin olun. Eğer cihazınızı sıfırlarsanız veya uygulamayı
+        kaldırırsanız, cüzdanınıza yeniden erişmek için ona ihtiyacınız olacaktır.<br/>
+        <h3>ÇılGın ParOla</h3>
+        Eğer burada görüntülenen parola 4 grup halinde 52 alfanümerik karakterden oluşuyorsa
+        tebrikler!
+        Cüzdan dosyalarınız, seçtiğiniz parolanıza (oluşturma veya değiştirme esnasında) dayalı
+        cihazınızın güvenlik işlevleri tarafından oluşturulan 256 bitlik bir anahtarla güvence altına
+        alınmıştır. Bu da sayısal saldırıları son derece zorlaştırır!<br/>
+        Bu işlev, tüm yeni oluşturulan cüzdanları için mecburidir.
+        <h3>Eski Parola</h3>
+        Eğer burada parolanızı görüyorsanız, cüzdan dosyalarınız CrAzYpass yani ÇılGın ParOla
+        kullanıldığında olduğu kadar güvende değildir. Bunu düzeltmek için sadece menüden
+        \"Parola Değiştir\" şıkkını seçin. Yeni bir parola girdikten sonra (belki de eski
+        parolanın aynısını), uygulama sizin için bir CrAzYpass oluşturacak ve cüzdan dosyalarınızı
+        onunla güvence altına alacaktır. Bunu bir kağıda yazın!
+        <h3>CrAzYpass cüzdanları</h3>
+        Eğer Monerujo\'yu yeniden kurmanız gerekirse (mesela cihazınızı sıfırladıktan sonra veya
+        yeni bir cihaza geçtikten sonra) ya da cüzdan dosyalarınızı farklı bir cihazda veya PC'de
+        kullanmak istiyorsanız, bu Geri Getirme Parolasını cüzdan dosyalarınıza yeniden erişmek
+        için kullanın.<br/>
+        Menüden \"Parola Değiştir\" şıkkını seçerek başka bir parola seçebilirsiniz. Bunun yeni bir
+        Geri Getirme Parolası oluşturacağını unutmayın. Onu bir kağıda yazın!
+        <h2>Görüntüleme Anahtarı</h2>
+        Görüntüleme anahtarınız, cüzdanınızdaki fonları harcama izni vermeden gelen işlemleri takip
+        etmek için kullanılabilir.
+        <h2>Harcama Anahtarı</h2>
+        Harcama anahtarınız, herkese cüzdanınızla ilişkili Monero\'ları imkânı verir, dolayısıyla
+        bunu kimseye vermeyin ve Anımsatıcı Tohum gibi güvende muhafaza edin.
+    ]]></string>
+
+    <string name="help_list"><![CDATA[
+        <h1>Cüzdan Listesi</h1>
+        <h2>Düğüm</h2>
+        <p>Monerujo tüm blok zincirini indirip bir kopyasını kaydetmeden Monero ağıyla iletişim
+        kurmak için bir uzak düğüm kullanır. Popüler uzak düğümlerin bir listesi için veya
+        kendi uzak düğümünüzü nasıl çalıştırabileceğinizi öğrenmek için https://moneroworld.com/
+        sitesini ziyaret edin.<p>
+        <p>Monerujo, bazı Uzak Düğüm ön ayarları ile sağlanır. Son kullanılan beş düğümü hatırlar.</p>
+        <h2>Cüzdan</h2>
+        <p>Burada cüzdanlarınızı görebilirsiniz. Cihazınızın dahili depolamasında <tt>monerujo</tt>
+        dizininde bulunurlar. Onları görmek için bir dosya tarayıcı uygulaması kullanabilirsiniz.
+        Bu klasörün cihaz dışı yedeklemesini düzenli bir şekilde yapmalısınız, cihazınız infilak
+        ederse veya çalınırsa diye.</p>
+        <p>Açılacak bir cüzdan seçin veya yeni bir cüzdan oluşturmak için \"+\" işaretine dokunun.
+        Veya aşağıdaki bir cüzdan işlemini seçin:</p>
+        <h3>Ayrıntılar</h3>
+        <p>Cüzdan teferruatlarını, tohum ve anahtarları göster.</p>
+        <h3>Al</h3>
+        <p>Monero almak için bir QR kod oluştur.</p>
+        <h3>Tekrar Adlandır</h3>
+        <p>Cüzdanı yeniden adlandır. Yedeklemeler yeniden adlandırılmaz.</p>
+        <h3>Yedekle</h3>
+        <p><tt>monerujo</tt> dizinin içinde <tt>backups</tt> klasöründe cüzdanın bir yedeklemesini
+        oradaki eski kopyaları silerek oluştur.</p>
+        <h3>Arşivle</h3>
+        <p>Bir yedekleme oluştur ve ardından cüzdanı sil. Kopya, <tt>backups</tt> dizininde muhafaza
+        edilir. Eğer yedeklemelere artık ihtiyacınız yoksa bunları bir dosya tarayıcısı veya güvenli
+        silme uygulamasıyla silmeniz tavsiye edilir.</p>
+    ]]></string>
+
+    <string name="help_tx_details"><![CDATA[
+        <h1>İşlem Ayrıntıları</h1>
+        <h2>Hedef</h2>
+        Bu, Monero gönderdiğiniz cüzdanın herkese açık adresidir
+        <h2>Ödeme Kimliği</h2>
+        İki taraf arasında Monero gönderme nedeninizi belirlemek için bir Ödeme Kimliği
+        kullanabilirsiniz, bu tamamen isteğe bağlı ve özeldir. Mesela bir şirketin ödemenizi
+        satın aldığınız ürünle ilişkilendirilmesi için kullanılabilir.
+        <h2>TX ID</h2>
+        Bu, işlem kimliğinizdir, onu <a href="https://xmrchain.net/">https://xmrchain.net/</a> gibi
+        bir Monero blok zinciri tarayıcısında gizlenmiş işleminizi tespit etmek için
+        kullanabilirsiniz.
+        <h2>TX KEY (İşlem Anahtarı)</h2>
+        Bu, işlem özel anahtarınızdır, güvende muhafaza edin çünkü bunu bir üçüncü tarafa açıklamak
+        bir halkadaki hangi imzanın sizinki olduğunu açığa çıkarır, böylece işleminizi  şeffaf
+        hale getirir.
+        <h2>Blok</h2>
+        Bu, işleminizin dahil olduğu bloktur.
+    ]]></string>
+
+    <string name="help_send"><![CDATA[
+        <h1>Gönder</h1>
+        <h2>Alıcının adresi</h2>
+        <p>Bu, gönderide bulunduğunuz cüzdanın herkese açık adresidir, onu panonuzdan yapıştırabilir,
+        bir QR kod tarayabilir veya elle girebilirsiniz. Yanlış bir adrese para göndermediğinizden
+        emin olmak için bunu üç kere kontrol edin, çünkü para gönderildiğinde bunu geri almak
+        mümkün değildir.</p>
+        <p>Bir XMR adresi kullanmaya ilaveten şunları da kullanabilirsiniz:
+        <ul>
+            <li>XMR veya BTC için bir <a href="https://openalias.org/">OpenAlias</a></li>
+            <li>Başka bir kripto adresi</li>
+        </u>
+		</p>
+        <h2>XMR Dönüştürme</h2>
+        <p>Başka bir kriptoya dönüştürme harici bir borsa hizmeti tarafından işlenir. Monerujo bu hizmetleri işletmez
+        ve onlarla bir bağlantısı yoktur, dolayısıyla bu hizmetler mevzusunda size yardımcı olamaz ama onlardan
+        destek almanız için gerekli bilgileri size sağlar.</p>
+        <h2>Mevcut XMR çiftleri</h2>
+		<p>Monerujo, XMR'den aşağıdaki jetonlara dönüşümü destekler:
+		<ul>
+			<li>Bitcoin (BTC)</li>
+			<li>Ethereum (ETH)</li>
+			<li>Litecoin (LTC)</li>
+			<li>Dash (DASH)</li>
+			<li>Dai (DAI), Ethereum üzerinde</li>
+			<li>Tether (USDT), Ethereum üzerinde</li>
+		</ul>
+		Sadece denk bir adres ekleyin veya istediğiniz jetonu ikonuna dokunarak seçin.</p>
+    ]]></string>
+
+    <string name="help_xmrto"><![CDATA[
+        <h1>XMR Dönüştürme</h1>
+        <h2>Meblağlar<h2>
+        <p>\"Meblağ\" alanında göndermek istediğiniz kripto para meblağını girin. Varsayılan değer olarak size cüzdanınızdan gönderilecek denk XMR meblağını gösterecektir. Eğer meblağı sabitlemek istiyorsanız açılır menüden başka bir birim seçebilirsiniz. Monerujo sabit bir oran kullanır, dolayısıyla işlemin sonunda burada belirttiğiniz meblağı tam olarak almanız gerekir.</p>
+		<h2>Dönüşüm oranı</h2>
+        <p>Aşağıda, borsa tarafından sunulan güncel oranı göreceksiniz, bunun yanında aşağı ve yukarı sınırlarını da göreceksiniz. Lütfen bu oranın henüz garantilenmediğini unutmayın, bu sonraki ekranda işleminiz onaylanmaya hazır olduğunda ayarlanacaktır.</p>
+	]]></string>
+
+	<string name="help_confirm"><![CDATA[
+        <h1>Dönüşüm Siparişi<h1>
+        <p>Bu ekranda hakiki dönüşüm emrini göreceksiniz. Bu sipariş sınırlı bir süre boyunca
+        geçerlidir - \"Harca"\ düğmesinde bir geriye sayım fark edebilirsiniz. Bu dönüşüm oranı
+        önceki ekranlarda gösterilenlerden farklı olabilir, ama zaman bitmeden kabul ettiğiniz sürece
+        sabit olacaktır.</p>
+        <h2>Emir Sayısı<h2>
+        <p>Monerujo\'nun işlemlerinizin sadece XMR tarafını işlemesinden dolayı, <em>değişim emriniz</em>
+        (veya siparişiniz) borsanın İnternet sitesinde takip etmeye veya destek almaya yarayabilir.</p>
+        <h2>Geri sayım bitti</h2>
+        <p>Geri sayım sıfıra gelince, önceki ekrana dönerek borsadan yeni bir fiyat teklifi almanız
+        ve ardından bu ekrana geri gelmeniz gerekecektir.</p>
+    ]]></string>
+
+    <string name="help_wallet"><![CDATA[
+        <h1>Cüzdan</h1>
+        <h2>Sokak Kipi</h2>
+        <p>Sokak kipi menüden veya Gunther\'in başı ikonundan etkinleştirilebilir veya devre dışı
+        bırakılabilir. Bu kipte, sokakta, bir barda veya başka kamu alanında güvenle cüzdanınızı
+        kullanabilmeniz için  bakiyeniz hiçbir ekranda gösterilmeyecektir. Önceki işlemler de
+        gizlenecektir. Yeni işlemler gösterilecektir, yani tatlı Monero gönderip aldığınızı
+        görebileceksiniz!</p>
+        <h2>Tarama</h2>
+        Monero her şeyi gizli tutmayı sevdiğinden dolayı, bir Monerujo cüzdanı açtığınız her zaman
+        blok zincirini cüzdanınıza yeni Monero gönderilip gönderilmediğini görmek için taramamız
+        gerekir, bu cüzdanınıza ait bilgileri sadece telefonunuzda depolar. Bazen, uzun bir süredir
+        eşleşme yapmadığınız için uzun zaman alabilir.
+        <h2>Bakiye</h2>
+        <p><b>İmdat! Cüzdan bakiyem yok oldu veya teyit edilmemiş!</b><br/>
+        Panik yapmayın! Cüzdanınızdan fon gönderdiğinizde, bakiyenizin bir kısmı geçici olarak
+        doğrulanmamış olarak gösterilecektir.
+        Bu, Monero\'nun blok zinciri üzerinde nasıl alıp verildiğinin ve değişimin işleyişinin
+        sonucu olarak meydana gelir.
+        Değişime dair daha fazla bilgi için https://getmonero.org/resources/moneropedia/change.html
+        adresini ziyaret edin.
+        <h2>İşlem Listesi</h2>
+        <p>Cüzdan işlemlerinin bir listesi. Görüntüleme cüzdanlarında sadece gelen işlemler gösterilir.</p>
+    ]]></string>
+
+    <string name="help_node"><![CDATA[
+        <h1>Düğümler</h1>
+        <h2>TL;DR</h2>
+        <p>Düğüm listesini tazelemek için aşağı çekin ve Monerujo\'nun size en iyi düğümü seçmesi için
+        yer imine ekleyin! 3&#8211;5</p>
+        <h2>Düğüm Nedir?</h2>
+        <p>Monerujo, blok zincirinin bir kopyasını indirip kaydetmek gerekmeksizin
+        Monero Ağı ile iletişim kurmak için bir Uzak Düğüm (bazen Daemon da denir)
+        kullanır.<p>
+        <h2>Düğüm Listesi</h2>
+        <p>Eğer liste boşsa, ya elle yeni düğümler ekleyebilir ya da Monerujo\'nun
+        ağı sizin için taramasını sağlayabilirsiniz. Veya her ikisini yapabilirsiniz.
+        Okumaya devam edin&#8230;</p>
+        <p>Düğüm listesi güncel olarak bütün tanınan düğümleri listeler. Ek olarak her
+        bir blok için bilinen son blok zaman damgası düğüm isminin altında gösterilir.
+        Her bir düğümün yanında düğümün cevap işleyişini (yani beklenecek bağlantı
+        seviyesini) temsilen bir ikon bulunur.</p>
+        <p>Listedeki her düğüm sonra kullanmak için yer imlerine eklenebilir.
+        Yer imlerine eklenmeyen düğümler unutulacaktır.<p>
+        <p>Monerujo, onu her kullandığınızda yer imlerindeki en uygun düğümü seçer.
+        Bunu, blok yüksekliğini (düğüm ne kadar güncel?) ve cevap işleyişini
+        (düğüm taleplere ne kadar süratli cevap veriyor?) kontrol ederek yapar.</p>
+        <p>Liste bu özelliklere göre sıralanır, dolayısıyla en üstteki düğüm Monerujo\'nun
+        şimdi seçeceği düğümdür. Listenin sonu, çok yavaş veya erişilemeyen düğümleri
+        gösterir.</p>
+        <h2>Düğüm Ekleme</h2>
+        <p>En aşağıdaki &quot;Düğüm Ekle&quot; düğmesine tıklarsanız, izleyen diyalogda
+        düğüm ayrıntılarını girmeniz istenecektir.
+        &quot;Adres&quot; düğümün IP adresi veya makine adıdır - bu tek mecburi alandır.
+        Düğüm varsayılan olmayan bir bağlantı noktası (port) kullanıyorsa (mesela 18089),
+        &quot;Bağlantı Noktası&quot; değerini girin.
+        Seçime dayalı olarak düğüme bir ad da verebilirsiniz, daha sonra daha kolay bir
+        şekilde onu tanımak amacıyla.
+        Bazı düğümleri kullanmak için oturum açmak gerekir. Size verilen kullanıcı adını
+        ve parolayı uygun alanlara girin. Artık bu ayarları &quot;Deneyebilirisiniz&quot;.
+        &quot;Test Sonuçları&quot; blok yüksekliğini, cevap süresini ve kullanılan IP
+        adresini gösterecektir.
+        Sonuç bir hata da olabilir - genellikle girilen makine ismine makul bir süre
+        zarfında ulaşılamamasından veya kimlik bilgilerinin yanlış olmalarından dolayı.
+        Veya makine ismi/bağlantı noktası birleşimi gerçek bir Monero düğümüne işaret
+        etmediğinden dolayı!
+        Test başarıyla (hatasız) tamamlandıktan sonra - bu düğümün yer imini kaydetmek
+        için &quot;Tamam&quot; ikonuna dokunmanız yeterlidir.</p>
+        <h2>Düğüm Tarama</h2>
+        <p>Ek olarak, ağı düğüm arayacak şekilde tarayabilirsiniz. Monerujo, Uzaktaki
+        Düğümler için ağı 18089 bağlantı noktası üzerinden tarayacaktır. Yer imlerinizdeki
+        düğümlere Monero P2P (yani eşten eşe) ağında başka eşleri sorarak başlar,
+        ardından bu düğümlere onların eşlerini sorar ve bu böyle devam eder. Eğer
+        yer imlerinizde hiç düğüm yoksa (veya bunlar bize eşlerine dair bilgi vermiyorsa)
+        Monerujo doğrudan Monero\'ya sabit kodlanmış Monero tohum düğümlerini
+        sorgulayacaktır. Tarama toplamda 10 uzak düğüm bulunduğunda sona erer.</p>
+    ]]></string>
+
+    <string name="help_uri"><![CDATA[
+        <h1>Ödeme bağlantısı kullanımı</h1>
+        <p>Monerujo\'yu bir ödeme bağlantısıyla başlattınız. Fon gönderebilmek için, lütfen
+        aşağıdaki talimatlara uyun:</p>
+        <p>
+        1. Harcama yapmak istediğiniz cüzdanınızı açın<br>
+        2. Cüzdan eşleşene dek ve "Ver" düğmesi belirene dek bekleyin<br>
+        3. "Ver" düğmesine dokunun
+        </p>
+        <p>Ödeme ayrıntıları doldurulacaktır. Onları kontrol edin ve diğer herhangi bir işlem
+        için olduğu gibi devam edin.</p>
+    ]]></string>
+
+    <string name="help_ok">Anladım!</string> <!-- Note: "Got it" as in "I understand this" -->
+
+    <string name="help_nok">Yok… İstemem</string> <!-- Note: "Nah..." as in "I don't want this" -->
+    <string name="help_getorbot">Orbot\'u indir!</string>
+    <string name="help_tor"><![CDATA[
+        <h1>Tor</h1>
+        <p>Tor, The Onion Router\'ın (yani Soğan Yönlendiricisi) kısaltılmış halidir ve anonim
+        iletişime imkân sağlayan özgür, açık kaynaklı bir yazılımdır.</p>
+        <p>Tor\'un etkinleştirilmesi bağlantınızı birkaç aktarıcı üzerinden yönlendirecektir ve
+        IP adresinizi düğümden gizleyecektir. Bunun daha gizli ama aynı zamanda daha <b>yavaş</b>
+        olduğunu aklınızdan çıkarmayın.</p>
+        <p>Monerujo ile Tor kullanmak için, telefonunuzda Orbot\'un kurulu olması gerekir. Orbot
+        kurulduktan sonra, cüzdan listesi ekranında ağ ikonuna tıklayarak onu etkinleştirdiğinizden
+        emin olun.</p>
+        <p>Eğer Tor ile bağlantı sorunu yaşıyorsanız, Orbot uygulamasında yeni bir Kimlik edinmeye
+        çalışın (ikon en üst sağ köşededir).</p>
+    ]]></string>
+
+    <string name="help_tor_enable"><![CDATA[
+        <h1>Tor Düğümü</h1>
+        <p>Bu bir .onion düğümüdür. Onu kullanmak için Tor kipini  Cüzdan Listesi sayfasının en
+        üzerine yakın <img src="ic_network_clearnet"/> ikonuna dokunarak Tor kipini
+        etkinleştirmeniz gerekir.</p>
+    ]]></string>
+</resources>
