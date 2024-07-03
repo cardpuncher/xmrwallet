@@ -100,7 +100,7 @@
         onunla güvence altına alacaktır. Bunu bir kağıda yazın!
         <h3>CrAzYpass cüzdanları</h3>
         Eğer Monerujo\'yu yeniden kurmanız gerekirse (mesela cihazınızı sıfırladıktan sonra veya
-        yeni bir cihaza geçtikten sonra) ya da cüzdan dosyalarınızı farklı bir cihazda veya PC'de
+        yeni bir cihaza geçtikten sonra) ya da cüzdan dosyalarınızı farklı bir cihazda veya PC\'de
         kullanmak istiyorsanız, bu Geri Getirme Parolasını cüzdan dosyalarınıza yeniden erişmek
         için kullanın.<br/>
         Menüden \"Parola Değiştir\" şıkkını seçerek başka bir parola seçebilirsiniz. Bunun yeni bir
@@ -157,7 +157,7 @@
         kullanabilirsiniz.
         <h2>TX KEY (İşlem Anahtarı)</h2>
         Bu, işlem özel anahtarınızdır, güvende muhafaza edin çünkü bunu bir üçüncü tarafa açıklamak
-        bir halkadaki hangi imzanın sizinki olduğunu açığa çıkarır, böylece işleminizi  şeffaf
+        bir halkadaki hangi imzanın sizinki olduğunu açığa çıkarır, böylece işleminizi şeffaf
         hale getirir.
         <h2>Blok</h2>
         Bu, işleminizin dahil olduğu bloktur.
@@ -181,7 +181,7 @@
         ve onlarla bir bağlantısı yoktur, dolayısıyla bu hizmetler mevzusunda size yardımcı olamaz ama onlardan
         destek almanız için gerekli bilgileri size sağlar.</p>
         <h2>Mevcut XMR çiftleri</h2>
-		<p>Monerujo, XMR'den aşağıdaki jetonlara dönüşümü destekler:
+		<p>Monerujo, XMR\'den aşağıdaki jetonlara dönüşümü destekler:
 		<ul>
 			<li>Bitcoin (BTC)</li>
 			<li>Ethereum (ETH)</li>
